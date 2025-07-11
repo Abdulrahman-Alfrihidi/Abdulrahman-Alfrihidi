@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Hi there 👋
 I'm a Computer Science student at KAU. Experienced in AI and data analyst.
 I work with KAUST Academy AI specialization, Teaching Assistance role. 
 Also I love searching in AI topics a lot, specially in computer vision. 
