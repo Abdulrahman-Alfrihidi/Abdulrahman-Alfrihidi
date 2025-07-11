@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## Hi there 👋
+I'm a Computer Science student at KAU. Experienced in AI and data analyst.
+I work with KAUST Academy AI specialization, Teaching Assistance role. 
+Also I love searching in AI topics a lot, specially in computer vision. 
+I look forward to learn in new experiences. 
 <!--
 **Abdulrahman-Alfrihidi/Abdulrahman-Alfrihidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
